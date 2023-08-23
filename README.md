@@ -1,6 +1,6 @@
 # Hello friend, welcome! 👋
 <div>
-<img height="300" widht="300" src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="Meu perfil" align="middle">
+<figure height="300" widht="300" class="snip1325 hover"><a href="#"><img src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="Meu Perfil"/></a></figure>
 </div>
 
 ## Meu Perfil
