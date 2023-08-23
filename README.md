@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<!--https://github.com/anuraghazra/github-readme-stats-->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
 
 
