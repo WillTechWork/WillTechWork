@@ -1,5 +1,7 @@
 # Hello friend, welcome! 👋
+<div>
 <img height="300" widht="300" src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="Meu perfil" align="middle">
+</div>
 
 ## Meu Perfil
 <p>Sou Willian Valentin , formado em Análise e Desenvolvimento de Sistemas, estudante de Engenharia de Software (Trancado). Possuo habilidades em lógica de programação, conhecimentos em HTML , CSS, Javascript e aprendi SQL na universidade. Atualmente estou aprimorando minhas habilidades pelo programa <FordEnter>, onde também estou aprendendo Frontend, Backend e Power Bi. Conhecimentos específicos em Portugol, SQL e Python (Intermediário).
