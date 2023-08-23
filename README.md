@@ -1,4 +1,6 @@
 # Hello friend, welcome! 👋
+<img src="https://avatars.githubusercontent.com/u/142448070?v=4" />
+
 <img height="150" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
