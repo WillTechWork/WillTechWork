@@ -1,5 +1,5 @@
 # Hello friend, welcome! 👋
- <img src=”Nomedaimagem.gif”. Em seguida, digite alt=”descrição da imagem”
+<img src=”https://avatars.githubusercontent.com/u/142448070?s=400&u=3d96eba527ebf9ff878d241df9e9e9de3e917fd6&v=4” alt=”perfil”
 <img height="150" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
