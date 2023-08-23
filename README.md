@@ -1,5 +1,5 @@
 # Hello friend, welcome! 👋
-<img height="450" widht="450" src="https://avatars.githubusercontent.com/u/142448070?v=4" align="middle" style="border: 1px #ff000">
+<img height="450" widht="450" src="https://avatars.githubusercontent.com/u/142448070?v=4" align="middle" style="border: 1px #000 solid">
 <img height="150" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
