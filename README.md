@@ -1,5 +1,5 @@
 ### Hi there 👋
- <center><img src:https://media.licdn.com/dms/image/D4D03AQG9MOsBREx34A/profile-displayphoto-shrink_800_800/0/1690339932021?e=2147483647&v=beta&t=zr6aMcUo_paTJEV_sE9_-1c6yz8okzJQnSBTER7gwP8 </img></center>
+ <center><img src="https://media.licdn.com/dms/image/D4D03AQG9MOsBREx34A/profile-displayphoto-shrink_800_800/0/1690339932021?e=2147483647&v=beta&t=zr6aMcUo_paTJEV_sE9_-1c6yz8okzJQnSBTER7gwP8"></center>
 
   Sou Willian Valentin , formado em Análise e Desenvolvimento de Sistemas, estudante de Engenharia de Software (Trancado). Possuo habilidades em lógica de programação, conhecimentos em HTML , CSS, Javascript e aprendi SQL na universidade. Atualmente estou aprimorando minhas habilidades pelo programa <FordEnter>, onde também estou aprendendo Frontend, Backend e Power Bi. Conhecimentos específicos em Portugol, SQL e Python (Intermediário).
 
