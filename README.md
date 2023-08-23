@@ -18,6 +18,7 @@ Atenciosamente,
 
 Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 
+## GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
 
 <svg viewBox="0 0 128 128">
