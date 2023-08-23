@@ -1,7 +1,6 @@
 # Hello friend, welcome! 👋
 <div>
-<style type="text/css">
-.snip1325 {
+<style type=".snip1325 {
   position: relative;
   overflow: hidden;
   margin: 10px;
@@ -26,7 +25,7 @@
 /* Demo purposes only */
 body {
   background-color: #212121;
-}
+}/css">
 <figure height="300" widht="300" class="snip1325 hover"><a href="#"><img src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="Meu Perfil"/></a></figure>
 </div>
 
