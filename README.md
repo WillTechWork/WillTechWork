@@ -1,6 +1,4 @@
 ### Hi there 👋
-
- <img src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="imagem de Perfil" align="middle">
  
 
 
