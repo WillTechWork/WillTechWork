@@ -1,5 +1,5 @@
 # Hello friend, welcome! 👋
-<img src="https://avatars.githubusercontent.com/u/142448070?v=4" />
+
 
 <img height="150" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
