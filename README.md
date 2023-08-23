@@ -11,6 +11,7 @@
  Agradeço pela sua consideração e estou à disposição para fornecer quaisquer informações adicionais.
  
  Atenciosamente,
+ 
  Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 
 ## GitHub Status
