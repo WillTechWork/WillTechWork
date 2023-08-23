@@ -1,6 +1,6 @@
 # Hello friend, welcome! 👋
 <div>
-<figure height="170" widht="170" class="snip1325 hover"><a href="#"><img src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="Meu Perfil"/></a></figure>
+<figure height="145" widht="145" class="snip1325 hover"><a href="#"><img src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="Meu Perfil"/></a></figure>
 </div>
 
 ## My Profile 👨🏻💻🤖🤓❤️🔥
