@@ -1,6 +1,32 @@
 # Hello friend, welcome! 👋
 <div>
-<style type="text/css">          
+<style type="text/css">
+.snip1325 {
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+  min-width: 255px;
+  max-width: 315px;
+  height: 220px;
+  width: 100%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+.snip1325 img {
+  height: 100%;
+  position: absolute;
+  right: 0;
+  -webkit-transition: all 2s ease-out;
+  transition: all 2s ease-out;
+}
+.snip1325:hover img,
+.snip1325.hover img {
+  -webkit-transform: translateX(130px);
+  transform: translateX(130px);
+}
+/* Demo purposes only */
+body {
+  background-color: #212121;
+}
 <figure height="300" widht="300" class="snip1325 hover"><a href="#"><img src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="Meu Perfil"/></a></figure>
 </div>
 
