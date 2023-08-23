@@ -3,7 +3,7 @@
 <figure height="300" widht="300" class="snip1325 hover"><a href="#"><img src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="Meu Perfil"/></a></figure>
 </div>
 
-## Meu Perfil
+## My Profile
 <p>Sou Willian Valentin , formado em Análise e Desenvolvimento de Sistemas, estudante de Engenharia de Software (Trancado). Possuo habilidades em lógica de programação, conhecimentos em HTML , CSS, Javascript e aprendi SQL na universidade. Atualmente estou aprimorando minhas habilidades pelo programa <FordEnter>, onde também estou aprendendo Frontend, Backend e Power Bi. Conhecimentos específicos em Portugol, SQL e Python (Intermediário).
 
 Ao longo da minha trajetória acadêmica, realizei monitorias em arquitetura de computadores e desenvolvimento web - Frontend. Realizava trabalhos freelancer na área da saúde, viabilizando 20% da minha faculdade através de uma bolsa de 80%.
