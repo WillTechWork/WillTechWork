@@ -9,9 +9,9 @@
  Embora tenha aberto mão da minha carreira profissional em 2019, para cuidar de um familiar doente até 2021 que se encontrava com câncer nos ossos, essa experiência me ensinou valores importantes como empatia e amor que considero essenciais para qualquer área.
  Acredito que minha paixão, determinação, habilidades, com um perfil analítico e investigador para resolução de problemas e valores me tornam um candidato ideal para às oportunidades que a sua empresa possa ter na área de tecnologia da informação.
  Agradeço pela sua consideração e estou à disposição para fornecer quaisquer informações adicionais.
+ 
  Atenciosamente,
-
-Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
+ Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 
 ## GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
