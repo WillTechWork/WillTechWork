@@ -1,5 +1,7 @@
 # Hello friend, welcome! 👋
 
+<img src="https://avatars.githubusercontent.com/u/142448070?v=4" alt="Meu perfil" align="middle">
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
 
