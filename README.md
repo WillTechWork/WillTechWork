@@ -22,9 +22,10 @@ Agradeço pela sua consideração e estou à disposição para fornecer quaisque
 Atenciosamente,
  
 Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
-
+<div align="center">
 ## GitHub Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
+</div>
 
 ## Languages and Tools
 
