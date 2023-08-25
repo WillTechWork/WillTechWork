@@ -30,9 +30,9 @@
   <a href="https://https://www.linkedin.com/in/williansribeirotechwork/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
+
 <div align="center">
 ![Snake animation](https://github.com/WillTechWork/WillTechWork/blob/output/github-contribution-grid-snake.svg) 
-
 </div>
 
 <div align="center">
