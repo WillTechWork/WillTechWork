@@ -28,14 +28,13 @@ Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 
 ## Languages and Tools
 
-<div>
-<img height="120" widht="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>         
-<img height="120" widht="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>            
-<img height="135" widht="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>          
-<img height="120" widht="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img height="120" widht="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img height="120" widht="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
+<div style="display: inline_block"><br>
+<img align="center" alt="Html" height="35" widht="45"
+<img align="center" alt="Css" height="35" widht="45"
+<img align="center" alt="javascript"  height="35" widht="45"
+<img align="center" alt="Git" height="35" widht="45"
+<img align="center" alt="GitHub" height="35" widht="45"
+<img align="center" alt="Visual Studio Code" height="35" widht="45"
 </div>          
                   
 <!--
