@@ -1,4 +1,9 @@
-# Hello friend, welcome, I'am Will! 👋👨🏻💻🤖🤓
+# Hello friends! 👋👨🏻💻
+
+<h1 align="center">
+    Como vai? Eu sou o 
+    <a href="https://www.linkedin.com/in/williansribeirotechwork/">Will!🤖🤓</a>
+  </h1>
 <br>
 
 <div align="center">
