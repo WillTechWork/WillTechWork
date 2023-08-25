@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <p>Efeito criado com :heart: JavaScript.</p>
+  <p>:heart:JavaScript.</p>
 </div>
                   
 <!--
