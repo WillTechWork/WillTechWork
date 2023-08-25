@@ -29,12 +29,7 @@ Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 ## Languages and Tools
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Html" height="35" widht="45"
-<img align="center" alt="Css" height="35" widht="45"
-<img align="center" alt="javascript"  height="35" widht="45"
-<img align="center" alt="Git" height="35" widht="45"
-<img align="center" alt="GitHub" height="35" widht="45"
-<img align="center" alt="Visual Studio Code" height="35" widht="45"
+
 </div>          
                   
 <!--
