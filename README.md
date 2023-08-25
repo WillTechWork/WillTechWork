@@ -7,7 +7,7 @@
 </div>
 
 ## My Profile: Willian Valentin 👨🏻💻🤖🤓
-<p> Sou formado em Análise e Desenvolvimento de Sistemas, OBS: Aguardando fechamento de notas e cerimônia de formatura, estudava ao mesmo tempo no último semestre de Análise e Desenvolvimento de Sistemas, Engenharia de Software - OBS:  1ºSemestre - Concluído, devido ao desemprego se encontra: "Trancado". 
+<p> Sou formado em Análise e Desenvolvimento de Sistemas, OBS: Aguardando fechamento de notas e cerimônia de formatura, estudava ao mesmo tempo no último semestre de Análise e Desenvolvimento de Sistemas, Engenharia de Software - OBS:  1º Semestre - Concluído, devido ao desemprego se encontra: "Trancado". 
  
 Possuo habilidades em lógica de programação, conhecimentos em HTML , CSS, Javascript e aprendi SQL na universidade. Atualmente estou aprimorando minhas habilidades pelo programa <FordEnter>, onde também estou aprendendo Frontend, Backend e Power Bi. Conhecimentos específicos em Portugol, SQL e Python (Intermediário).
  
