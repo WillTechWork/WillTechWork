@@ -18,8 +18,10 @@ Atenciosamente,
  
 Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 
-## GitHub Status
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillTechWork&layout=compact&langs_count=7&theme=dracula"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
+</div>
 
 ## Languages and Tools
 <div align="center" style="display: inline_block"><br>       
