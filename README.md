@@ -1,7 +1,6 @@
 # Hello friend, welcome, I'am Will! 👋
-
 <div align="center">
-<img height="300" widht="350" src="https://avatars.githubusercontent.com/u/142448070?v=4">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondpreuss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 # My Profile: 👨🏻💻🤖🤓
