@@ -28,7 +28,7 @@ Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 ## Languages and Tools
 
 <div>
- <img height="120" widht="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>         
+<img height="120" widht="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>         
 <img height="120" widht="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>            
 <img height="135" widht="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>          
 <img height="120" widht="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
