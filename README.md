@@ -1,7 +1,5 @@
 # Hello friend, welcome, I'am Will! 👋
-<div align="center">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondpreuss&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 # My Profile: 👨🏻💻🤖🤓
 <p> Sou formado em Análise e Desenvolvimento de Sistemas, OBS: Aguardando fechamento de notas e cerimônia de formatura, estudava ao mesmo tempo no último semestre de Análise e Desenvolvimento de Sistemas, Engenharia de Software - OBS:  1º Semestre - Concluído, devido ao desemprego se encontra: "Trancado". 
