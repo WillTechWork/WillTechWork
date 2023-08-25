@@ -1,10 +1,6 @@
 # Hello friend, welcome, I'am Will! 👋
 
-<div align="center">
-<a href="https://github.com/WillTechWork">
-<img height="180" src"https://github-readme-stats.vercel.app/api?username=WillTechWork&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180" src"https://github-readme-stats.vercel.app/api/top-langs/?username=WillTechWork&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 ## My Profile: 👨🏻💻🤖🤓
 <p> Sou formado em Análise e Desenvolvimento de Sistemas, OBS: Aguardando fechamento de notas e cerimônia de formatura, estudava ao mesmo tempo no último semestre de Análise e Desenvolvimento de Sistemas, Engenharia de Software - OBS:  1º Semestre - Concluído, devido ao desemprego se encontra: "Trancado". 
@@ -27,7 +23,7 @@ Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
 
 ## Languages and Tools
-<div>
+<div align="center">
 <img height="120" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg""/>
 <img height="120" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
 <img height="120" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
