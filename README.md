@@ -1,7 +1,7 @@
 # Hello friend, welcome, I'am Will! 👋
 
 <div align="center">
-<img height="100" widht="170" src="https://avatars.githubusercontent.com/u/142448070?v=4">
+<img height="230" widht="270" src="https://avatars.githubusercontent.com/u/142448070?v=4">
 </div>
 
 # My Profile: 👨🏻💻🤖🤓
