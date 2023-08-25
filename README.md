@@ -27,7 +27,7 @@ Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillTechWork)](https://github.com/WillTechWork/github-readme-stats)
 
 ## Languages and Tools
-<div align="center">
+<div>
 <img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg""/>
 <img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
 <img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
