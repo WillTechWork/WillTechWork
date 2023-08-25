@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: JavaScript.</p>
+  <p>Efeito criado com :heart: JavaScript.</p>
 </div>
                   
 <!--
