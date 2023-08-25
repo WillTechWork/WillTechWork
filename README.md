@@ -28,7 +28,7 @@ Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 
 ## Languages and Tools
 <div align="center">
-<img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+<img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg""/>
 <img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
 <img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
 <img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
