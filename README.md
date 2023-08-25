@@ -8,6 +8,7 @@
   </a>
 </div>
 <br>
+
 ## Languages and Tools
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="Will-git" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
