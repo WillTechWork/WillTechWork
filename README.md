@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Willian+Valentin+;I'm+27+years+old;I+from+Brasil,+SP;I+study+for+Ford+<Enter>+Senai+Ipiranga+São+Paulo+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-# Hello friends! 👋👨🏻💻
+<h2> Hello friends!👋👨🏻💻 </h2> 
 
-<h1 align="center">
+<h2 align="center">
      I'am 
     <a href="https://www.linkedin.com/in/williansribeirotechwork/">Will!🤖🤓</a>
-  </h1>
+  </h2>
 <br>
 
 <div align="center">
@@ -36,8 +36,14 @@
 </div>
 
 <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WillTechWork}/count.svg" /></p> 
+<br></div>
+
+<div align="center">
   <p>:heart:JavaScript.</p>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
                   
 <!--
 **WillTechWork/WillTechWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
