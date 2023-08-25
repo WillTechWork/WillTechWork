@@ -28,11 +28,11 @@ Willian Valentin. 👨🏻💻💿 💾📊🤖🤓❤️🔥</p>
 
 ## Languages and Tools
 <div>
-<img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg""/>
-<img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
-<img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
-<img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
-<img height="145" widht="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+<img height="120" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg""/>
+<img height="120" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+<img height="120" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+<img height="120" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+<img height="120" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
 </div>          
                   
 <!--
