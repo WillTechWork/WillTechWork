@@ -1,7 +1,7 @@
 # Hello friend, welcome! 👋
 
 <div align="center">
-<a href="https://avatars.githubusercontent.com/u/142448070?v=4">
+<a href="https://github.com/WillTechWork/WillTechWork">
 </div>
 
 ## My Profile 👨🏻💻🤖🤓❤️🔥
