@@ -1,7 +1,7 @@
 # Hello friend, welcome, I'am Will! 👋
 
 <div align="center">
-<img height="" widht="" src="https://scontent.fcgh9-1.fna.fbcdn.net/v/t39.30808-6/366662019_665582252150412_3395682448031504915_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHE36tf89dv15NaZ6eknO5bUDNL-kpalDVQM0v6SlqUNVguPlZw8uLjQwpmDDdd03lq7ItIMsDyYEeL6oUkNKn9&_nc_ohc=18aT1z3QaOQAX8AYzpY&_nc_ht=scontent.fcgh9-1.fna&oh=00_AfAt_I6Mz60YJ31ypGVgTFZVQBgubRwVTE2pXUTThI8e2g&oe=64ED1513">
+<img height="100" widht="170" src="https://scontent.fcgh9-1.fna.fbcdn.net/v/t39.30808-6/366662019_665582252150412_3395682448031504915_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHE36tf89dv15NaZ6eknO5bUDNL-kpalDVQM0v6SlqUNVguPlZw8uLjQwpmDDdd03lq7ItIMsDyYEeL6oUkNKn9&_nc_ohc=18aT1z3QaOQAX8AYzpY&_nc_ht=scontent.fcgh9-1.fna&oh=00_AfAt_I6Mz60YJ31ypGVgTFZVQBgubRwVTE2pXUTThI8e2g&oe=64ED1513">
 </div>
 
 # My Profile: 👨🏻💻🤖🤓
