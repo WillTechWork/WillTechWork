@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+My+Name+is+William+Valentin;I+Have+27+years;I'm+from+Brazil,+;I+study+for+the+Ford+<Enter>+Senai+Ipiranga+in+São+Paulo;Be+ Welcome!;)+">
-</h1>
-<h2> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Friends!👋👨🏻💻">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=80&duration=6000&lines=+My+name+is+Willian+Valentin;I+have+27+years+old.)](https://git.io/typing-svg)
+<br>
+<h2> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=80&duration=6000&lines=Hello+Friends!👋👨🏻💻">
 </h2>
 <h2 align="center">
      I'am 
@@ -38,7 +38,7 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️🤓;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=80&duration=6000&lines=Thanks+for+visiting!+✌️🤓;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
                   
