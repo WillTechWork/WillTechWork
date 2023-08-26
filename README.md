@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO,+MY+NAME+is+Willian+Valentin+;I'm+27+years+old;I+from+Brasil,+SP;I+study+for+Ford+<Enter>+Senai+Ipiranga+São+Paulo+;Be+Welcome!+">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+My+Name+is+William+Valentin;I+Have+27+years;I'm+from+Brazil,+;I+study+for+the+Ford+<Enter>+Senai+Ipiranga+in+São+Paulo;Be+ Welcome!;)+">
 </h1>
 <h2> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Friends!👋👨🏻💻">
 </h2>
