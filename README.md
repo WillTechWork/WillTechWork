@@ -14,9 +14,9 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillTechWork&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </a>
 </div>
-<br>
+
 <h2 align="center">⚡ Languages-Frameworks-Tools ⚡</h2>
-<br/>
+
 
 <div align="center"
     <img src="https://skillicons.dev/icons?i="/>
@@ -32,15 +32,14 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WillTechWork}/count.svg" /></p> 
 <br></div>
-<br>
+
 <div align="center">
   <p>:heart:JavaScript.</p>
 </div>
-<br>
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️🤓;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
                   
 <!--
