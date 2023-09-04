@@ -6,18 +6,19 @@
 </h2>
 <h2 align="center">
      I'am 
-    <a href="https://www.linkedin.com/in/williansribeirotechwork/">Will!🤖</a>
+    <a href="https://www.linkedin.com/in/williansribeirotechwork/">Will! 🤖</a>
   </h2>
+  
+<div>
+     
+![](https://github-readme-stats.vercel.app/api?username=WillTechWork&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)/>![](https://github-readme-streak-stats.herokuapp.com/?user=WillTechWork&theme=tokyonight&hide_border=false)/>
+</div>
 <div align="center">
-<a href="https://github.com/WillTechWork"> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WillTechWork&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Will github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillTechWork&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-</a>
+     
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WillTechWork&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <h2 align="center">⚡ Languages-Tools ⚡</h2>
-
-
 <div align="center"
     <img src="https://skillicons.dev/icons?i="/>
     <img src="https://skillicons.dev/icons?i=github,git,vscode,html,css,javascript"/>
@@ -40,6 +41,10 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=80&duration=6000&lines=Thanks+for+visiting!+✌️🤓;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
+<div align="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
                   
 <!--
