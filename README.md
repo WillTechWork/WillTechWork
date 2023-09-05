@@ -44,6 +44,10 @@
      
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
+<center>
+     
+![Snake animation](https://github.com/{{WillTechWork}}/{{WillTechWork}}/blob/output/github-contribution-grid-snake.svg)
+</center>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
                   
