@@ -8,10 +8,9 @@
      I'am 
     <a href="https://www.linkedin.com/in/williansribeirotechwork/">Will! 🤖</a>
   </h2>
-<center>
+<div align="center">
      
 ![](https://github-readme-stats.vercel.app/api?username=WillTechWork&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=WillTechWork&theme=tokyonight&hide_border=false)
-</center>
 
 <div align="center">
      
