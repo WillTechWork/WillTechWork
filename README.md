@@ -6,7 +6,7 @@
 </h2>
 <h2 align="center">
      I'am 
-    <a href="https://www.linkedin.com/in/williansribeirotechwork/">Will! 🤖</a>
+    <a href="https://www.linkedin.com/in/williansribeirotechwork/">Will!</a>
   </h2>
 <div align="center">
      
