@@ -10,12 +10,11 @@
   </h2>
 <div align="center"
      
-![Perfil](https://github-readme-stats.vercel.app/api?username=WillTechWork&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![Perfil](https://github-readme-stats.vercel.app/api?username=WillTechWork&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false);
 
 <div align="center>
      
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WillTechWork&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div align="center">
 
 
 <h2 align="center">⚡ Languages-Tools ⚡</h2>
