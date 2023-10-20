@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=80&duration=6000&lines=+My+name+is+Willian+Valentin;I+have+27+years+old.)](https://git.io/typing-svg)
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=80&duration=6000&lines=+Aprendizado+Desenvolvimento+Tecnologia+Ford<Enter>.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=80&duration=6000&lines=+Aprendizado,+Desenvolvimento,+Tecnologia,+Ford<Enter>.)](https://git.io/typing-svg)
 <h2> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=80&duration=6000&lines=Hello+Friends!👋👨🏻💻">
 </h2>
 <h2 align="center">
